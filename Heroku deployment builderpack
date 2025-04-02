@@ -1,0 +1,5 @@
+# for heroku deployment...add this bulidpack.  
+
+https://github.com/heroku/heroku-buildpack-activestorage-preview
+
+https://github.com/heroku/heroku-buildpack-apt
